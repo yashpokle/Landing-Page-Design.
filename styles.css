@@ -1,0 +1,46 @@
+body {
+    font-family: Arial ;
+    margin: 0;
+    padding: 0;
+    background-color: Black;
+}
+
+header {
+    background: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.btn {
+    background: white;
+    color: navy;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    
+}
+
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background: lavender;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+.feature {
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: white;
+}
